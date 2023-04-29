@@ -30,15 +30,15 @@ a {
 
 @font-face {
   font-family: Ubuntu-Bold;
-  src: url(fonts/Ubuntu-Bold.ttf);
+  src: url(./public/fonts/Ubuntu-Bold.ttf);
 }
 @font-face {
   font-family: Ubuntu-Medium;
-  src: url(fonts/Ubuntu-Medium.ttf);
+  src: url(./public/fonts/Ubuntu-Medium.ttf);
 }
 @font-face {
   font-family: Ubuntu-Regular;
-  src: url(fonts/Ubuntu-Regular.ttf);
+  src: url(./public/fonts/Ubuntu-Regular.ttf);
 }
 
 .multi-step-form {
